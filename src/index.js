@@ -12,7 +12,7 @@ function Overlay() {
         c2k
       </a>
       <div style={{ position: 'absolute', top: 40, left: 40, fontSize: '13px' }}>ok —</div>
-      <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>22/12/2022</div>
+      <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>28/06/2022</div>
     </div>
   )
 }
